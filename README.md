@@ -32,6 +32,6 @@ An approach entirely focused on accurately assessing whether a patient is health
 An approach focused on classifying the stage of the patient's disease. It shows a lower average accuracy - 64%.
 
 ----
-For more detailed information, please refer to the report.
+*For more detailed information, please refer to the report.*
 
 ---
