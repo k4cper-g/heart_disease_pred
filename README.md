@@ -1,16 +1,19 @@
 # heart-disease-pred
-Models proposed to .
+Machine learning models proposed to predict the degree of a heart disease.
 
 PL
 ----
-Projekt stworzony bez implementacji zewnętrznych bibliotek. Program korzysta z perceptronów (neuronów) z dyskretną funkcją aktywacji, tworząc jednowarstwową sieć neuronową. Sieć służy do wykrywania języka dzięki uprzedniemu wstrzyknięciu do programu danych i nauczeniu każdego perceptrona na zasadzie "polski:inny". W repozytorium znajduje się przykładowy folder treningowy.
+Projekt został wykonany w ramach projektu semestralnego specjalizacji "Inteligentne systemy przetwarzania danych". Jest on propozycją dwóch modeli wykonanych w ramach algorytmu probabilistycznego Bayesa. Celem modeli jest wykrycie oznak choroby serca a następnie określenie czy dany pacjent wykazuje tendencje chorobowe na podstawie danych z badania lekarskiego.
 
-Aby skorzystać z programu, należy:
+Model 1:
 
-1. Stworzyć dwa foldery przechowywujący dane treningowe i testowe.
-2. W nich odpowiednio stworzyć foldery odpowiadające danemu językowi i nazwać go zgodnie z etykietą.
-3. Wypełnić foldery z językami dowolną ilością plików tekstowych zawierających tekst w danym języku.
-4. Podać jako argumenty: scieżkę folderu treningowego, scieżkę folderu testowego.
+Podejście w pełni skupione na dokładnej ocenie czy pacjent jest zdrowy czy chory - model binarny. Wykazuje wyższą średnią dokładność - 86%.
+
+Model 2:
+
+Podejście skupione na klasyfikacji stadium choroby pacjenta. Wykazuje mniejszą średnią dokładność - 64%
+
+Po więcej szczegółowych informacji, zachęcam do zapoznania się z raportem.
 
 ENG
 ----
