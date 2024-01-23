@@ -1,6 +1,3 @@
-# heart-disease-pred
-Machine learning models proposed to predict the degree of a heart disease.
-
 ## PL
 
 Projekt został wykonany w ramach projektu semestralnego specjalizacji "Inteligentne systemy przetwarzania danych". Jest on propozycją dwóch modeli wykonanych w ramach algorytmu probabilistycznego Bayesa. Celem modeli jest wykrycie oznak choroby serca a następnie określenie czy dany pacjent wykazuje tendencje chorobowe na podstawie danych z badania lekarskiego.
