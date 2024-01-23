@@ -15,8 +15,7 @@ Podejście skupione na klasyfikacji stadium choroby pacjenta. Wykazuje mniejszą
 
 
 
-[!TIP]
-Po więcej szczegółowych informacji, zachęcam do zapoznania się z raportem.
+[!ALERT] Po więcej szczegółowych informacji, zachęcam do zapoznania się z raportem.
 
 ## ENG
 
