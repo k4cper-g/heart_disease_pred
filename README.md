@@ -14,17 +14,24 @@ Podejście w pełni skupione na dokładnej ocenie czy pacjent jest zdrowy czy ch
 Podejście skupione na klasyfikacji stadium choroby pacjenta. Wykazuje mniejszą średnią dokładność - 64%
 
 
+----
+*Po więcej szczegółowych informacji, zachęcam do zapoznania się z raportem.*
 
->[!TIP] 
->Po więcej szczegółowych informacji, zachęcam do zapoznania się z raportem.
+----
+
+
 
 ## ENG
 
-Project created without external library implementation. This program uses perceptrons with a discrete activation function (neurons) to create a single-layer neural network. It is then used to detect language by injecting data into the program beforehand and training each perceptron on the principle of "english:other". This repository contains a sample training folder.
+The project was carried out as an end-of-semester project for the "Intelligent Data Processing Systems" specialization. It proposes two models developed using the Bayesian probabilistic algorithm. The goal of the models is to detect signs of heart disease and then determine whether a given patient shows disease tendencies based on medical examination data.
 
-To use the program, follow these steps:
+### Model 1:
+An approach entirely focused on accurately assessing whether a patient is healthy or sick - a binary model. It exhibits a higher average accuracy - 86%.
 
-1. Create two folders to store training and testing data.
-2. Create subfolders within them for each language and name them accordingly.
-3. Fill the language subfolders with any number of text files containing text in that language.
-4. Provide the training folder path and testing folder path as arguments.
+### Model 2:
+An approach focused on classifying the stage of the patient's disease. It shows a lower average accuracy - 64%.
+
+----
+For more detailed information, please refer to the report.
+
+---
