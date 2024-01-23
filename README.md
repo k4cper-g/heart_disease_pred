@@ -2,7 +2,6 @@
 Machine learning models proposed to predict the degree of a heart disease.
 
 ## PL
-----
 Projekt został wykonany w ramach projektu semestralnego specjalizacji "Inteligentne systemy przetwarzania danych". Jest on propozycją dwóch modeli wykonanych w ramach algorytmu probabilistycznego Bayesa. Celem modeli jest wykrycie oznak choroby serca a następnie określenie czy dany pacjent wykazuje tendencje chorobowe na podstawie danych z badania lekarskiego.
 
 ### Model 1:
@@ -16,7 +15,6 @@ Podejście skupione na klasyfikacji stadium choroby pacjenta. Wykazuje mniejszą
 Po więcej szczegółowych informacji, zachęcam do zapoznania się z raportem.
 
 ## ENG
-----
 Project created without external library implementation. This program uses perceptrons with a discrete activation function (neurons) to create a single-layer neural network. It is then used to detect language by injecting data into the program beforehand and training each perceptron on the principle of "english:other". This repository contains a sample training folder.
 
 To use the program, follow these steps:
