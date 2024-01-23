@@ -13,7 +13,10 @@ Podejście w pełni skupione na dokładnej ocenie czy pacjent jest zdrowy czy ch
 
 Podejście skupione na klasyfikacji stadium choroby pacjenta. Wykazuje mniejszą średnią dokładność - 64%
 
-Po więcej szczegółowych informacji, zachęcam do zapoznania się z raportem.
+
+
+
+**Po więcej szczegółowych informacji, zachęcam do zapoznania się z raportem.**
 
 ## ENG
 
