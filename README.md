@@ -1,6 +1,6 @@
 ## PL
 
-Projekt został wykonany w ramach projektu semestralnego specjalizacji "Inteligentne systemy przetwarzania danych". Jest on propozycją dwóch modeli wykonanych w ramach algorytmu probabilistycznego Bayesa. Celem modeli jest wykrycie oznak choroby serca a następnie określenie czy dany pacjent wykazuje tendencje chorobowe na podstawie danych z badania lekarskiego.
+Praca został wykonany w ramach projektu semestralnego specjalizacji "Inteligentne systemy przetwarzania danych". Jest on propozycją dwóch modeli wykonanych w ramach algorytmu probabilistycznego Bayesa. Celem modeli jest wykrycie oznak choroby serca a następnie określenie czy dany pacjent wykazuje tendencje chorobowe na podstawie danych z badania lekarskiego.
 
 ### Model 1:
 
@@ -20,7 +20,7 @@ Podejście skupione na klasyfikacji stadium choroby pacjenta. Wykazuje mniejszą
 
 ## ENG
 
-The project was carried out as an end-of-semester project for the "Intelligent Data Processing Systems" specialization. It proposes two models developed using the Bayesian probabilistic algorithm. The goal of the models is to detect signs of heart disease and then determine whether a given patient shows disease tendencies based on medical examination data.
+This work was carried out as an end-of-semester project for the "Intelligent Data Processing Systems" specialization. It proposes two models developed using the Bayesian probabilistic algorithm. The goal of the models is to detect signs of heart disease and then determine whether a given patient shows disease tendencies based on medical examination data.
 
 ### Model 1:
 An approach entirely focused on accurately assessing whether a patient is healthy or sick - a binary model. It exhibits a higher average accuracy - 86%.
