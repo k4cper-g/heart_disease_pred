@@ -2,10 +2,6 @@
 
 This project aims to predict the presence and stage of heart disease in patients using a Naive Bayes classifier. Two models are developed: one for binary classification (healthy/sick) and another for multi-class classification of disease stages.
 
-**Author:** Kacper Gadomski
-**Version:** 0.4 (as per report)
-**Last Modification (Report):** January 23, 2024
-
 ## Table of Contents
 1.  [Overview](#overview)
 2.  [Dataset](#dataset)
@@ -180,4 +176,4 @@ For both models, the console output will show:
 
 For a comprehensive understanding of this project, including an in-depth look at the research objectives, data preprocessing steps, model implementation details, experimental setup, results analysis, and overall conclusions, please refer to the full project report. (Only in Polish)
 
-📄 **[View the Full Project Report (PDF)](reports/Raport%20-%20%E2%80%9CPredykcja%20stadium%20choroby%20serca%E2%80%9D.pdf)** [cite: 2]
+📄 **[View the Full Project Report (Polish Version) (PDF)](reports/Raport%20-%20%E2%80%9CPredykcja%20stadium%20choroby%20serca%E2%80%9D.pdf)**
