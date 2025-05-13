@@ -16,10 +16,9 @@ This project aims to predict the presence and stage of heart disease in patients
 4.  [Models & Results](#models--results)
     * [Model 1: Binary Classification (Healthy/Sick)](#model-1-binary-classification-healthysick)
     * [Model 2: Disease Stage Classification](#model-2-disease-stage-classification)
-5.  [Repository Structure](#repository-structure)
-6.  [Installation](#installation)
-7.  [Usage](#usage)
-8.  [Detailed Report](#detailed-report)
+5.  [Installation](#installation)
+6.  [Usage](#usage)
+7.  [Detailed Report](#detailed-report)
 
 ## Overview
 
@@ -108,27 +107,6 @@ The models were evaluated using the following metrics:
     * This model provides more detailed diagnostic information but at the cost of lower overall accuracy compared to the binary model. The performance is noted to be sensitive to dataset size.
 
 **Conclusion:** The choice between models depends on the clinical context. Model 1 offers high accuracy for binary presence/absence of disease, while Model 2 provides a more granular staging but with reduced accuracy. 
-
-## Repository Structure
-
-The project is organized as follows:
-
-heart_disease_pred-master/
-│
-├── files/
-│   └── processedcleveland.csv       # The primary dataset used for model training and evaluation.
-│
-├── reports/
-│   └── Raport - “Predykcja stadium choroby serca”.pdf  # Comprehensive project report detailing methodology,
-│                                                       # analysis, and results (in Polish).
-│
-├── model1.py                        # Python script implementing Model 1:
-│                                    # Binary classification (Healthy/Sick).
-│
-├── model2.py                        # Python script implementing Model 2:
-│                                    # Disease stage classification (Stages 0-4).
-│
-└── README.md                        # This file, providing an overview of the project.
 
 ## Installation
 
