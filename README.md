@@ -178,10 +178,6 @@ For both models, the console output will show:
 
 ## Detailed Report
 
-For a comprehensive understanding of this project, including an in-depth look at the research objectives, data preprocessing steps, model implementation details, experimental setup, results analysis, and overall conclusions, please refer to the full project report.
-
-The report provides a thorough exploration of the methodologies employed and offers a deeper discussion of the findings summarized in this README.
+For a comprehensive understanding of this project, including an in-depth look at the research objectives, data preprocessing steps, model implementation details, experimental setup, results analysis, and overall conclusions, please refer to the full project report. (Only in Polish)
 
 📄 **[View the Full Project Report (PDF)](reports/Raport%20-%20%E2%80%9CPredykcja%20stadium%20choroby%20serca%E2%80%9D.pdf)** [cite: 2]
-
-**Note:** The detailed report is written in Polish. [cite: 2]
